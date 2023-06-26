@@ -4,7 +4,7 @@
 </p>
 
 <!-- Título del proyecto -->
-# AlphaSuitQR Launcher (No Legacy)
+# AlphaSuitQR + Launcher (No Legacy)
 
 <!-- Descripción -->
 Es un programa basico de uso educativo en las clases de Programacion orientado a escaneo de codigos incriptados en lenguaje QR, basado en el lenguaje de Python, VBScript y su interfaz programado en Visual Basic en Objetos. En este repositorio se encuentra su codigo fuente con todos los assets, recursos y de manera portable solo si Python se encuentra en el ordenador que tenga Windows (Ocupa Wine en Linux y macOS). Basado en su version Legacy, reprogramado con un Launcher nuevo y caracteristicas.
