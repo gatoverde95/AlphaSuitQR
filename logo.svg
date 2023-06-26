@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="0.32567287"
      inkscape:cx="119.75207"
-     inkscape:cy="460.58488"
+     inkscape:cy="475.93771"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -38,8 +38,8 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"><image
-       width="283.02423"
-       height="282.35324"
+       width="144.10031"
+       height="140.17964"
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAQAAAPiCAYAAADo3Q/+AAAACXBIWXMAAA4yAAAOMgEUBrIkAAAA
 GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAIABJREFUeJzs3Xmcm1Xd/vHr3HeS
@@ -1310,26 +1310,8 @@ I/clbkmzyX8i02WSJNciSY2STJw6AAAAAPB/3+j03f1JmU6/yM911GVfm4dxmU3IdFjuh2V22C35
 0r00XG5v/W+PVI5ajvP2A0r8qpOnRxA3AAAAAElFTkSuQmCC
 "
        id="image17"
-       x="-55.738495"
-       y="4.1039238"
+       x="27.128403"
+       y="71.534828"
        inkscape:export-filename="alphalite.png"
        inkscape:export-xdpi="89.833588"
-       inkscape:export-ydpi="89.833588" /><rect
-       style="fill:#ffb380;stroke-width:0.268"
-       id="rect177"
-       width="115.14539"
-       height="77.42791"
-       x="118.99963"
-       y="216.20691"
-       ry="34.281059" /><text
-       xml:space="preserve"
-       style="font-size:51.456px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffb380;stroke-width:0.268"
-       x="138.33081"
-       y="265.80557"
-       id="text285"
-       transform="scale(0.98449164,1.0157527)"><tspan
-         sodipodi:role="line"
-         id="tspan283"
-         style="fill:#800080;stroke-width:0.268"
-         x="138.33081"
-         y="265.80557">Lite</tspan></text></g></svg>
+       inkscape:export-ydpi="89.833588" /></g></svg>
